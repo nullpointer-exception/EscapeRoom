@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Student\\Desktop\\EscapeRoom-timer\\EscapeRoom\\Source\\EscapeRoom\\EscapeRoom.Build.cs",
-		"C:\\Users\\Student\\Desktop\\EscapeRoom-timer\\EscapeRoom\\Source\\EscapeRoom.Target.cs",
-		"C:\\Users\\Student\\Desktop\\EscapeRoom-timer\\EscapeRoom\\Source\\EscapeRoomEditor.Target.cs"
+		"E:\\SAE\\Semester III\\EscapeRoom-main\\EscapeRoom-main\\Project\\EscapeRoom\\Source\\EscapeRoom\\EscapeRoom.Build.cs",
+		"E:\\SAE\\Semester III\\EscapeRoom-main\\EscapeRoom-main\\Project\\EscapeRoom\\Source\\EscapeRoom.Target.cs",
+		"E:\\SAE\\Semester III\\EscapeRoom-main\\EscapeRoom-main\\Project\\EscapeRoom\\Source\\EscapeRoomEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }

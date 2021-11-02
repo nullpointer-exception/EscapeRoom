@@ -1,7 +1,7 @@
-C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Definitions.EscapeRoom.h
-C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Source\EscapeRoom\EscapeRoomGameModeBase.h
+E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Definitions.EscapeRoom.h
+E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Source\EscapeRoom\EscapeRoomGameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Inc\EscapeRoom\EscapeRoomGameModeBase.generated.h
+E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Inc\EscapeRoom\EscapeRoomGameModeBase.generated.h

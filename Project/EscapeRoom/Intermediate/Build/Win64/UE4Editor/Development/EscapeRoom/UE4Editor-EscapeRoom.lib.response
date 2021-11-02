@@ -6,11 +6,11 @@
 /NAME:"UE4Editor-EscapeRoom.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoom.cpp.obj"
-"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomGameModeBase.cpp.obj"
-"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoom.init.gen.cpp.obj"
-"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomGameModeBase.gen.cpp.obj"
-"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Default.rc2.res"
-/OUT:"C:\Users\Student\Desktop\EscapeRoom-timer\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom.lib"
+"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoom.cpp.obj"
+"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomGameModeBase.cpp.obj"
+"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoom.init.gen.cpp.obj"
+"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomGameModeBase.gen.cpp.obj"
+"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Default.rc2.res"
+/OUT:"E:\SAE\Semester III\EscapeRoom-main\EscapeRoom-main\Project\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom.lib"
 /INCLUDE:IMPLEMENT_MODULE_EscapeRoom
