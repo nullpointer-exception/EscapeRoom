@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapeRoom",
+			"Path": "E:\\SAE\\Semester III\\EscapeRoom-main\\EscapeRoom-main\\Project\\EscapeRoom\\Source\\EscapeRoom.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapeRoomEditor",
+			"Path": "E:\\SAE\\Semester III\\EscapeRoom-main\\EscapeRoom-main\\Project\\EscapeRoom\\Source\\EscapeRoomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
